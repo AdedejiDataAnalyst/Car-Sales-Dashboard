@@ -11,7 +11,7 @@ An interactive Excel dashboard analysing 1,000 car sales orders, covering sales 
 3. Designed a dashboard with 5 charts and interactive slicers.
 
 ## Dashboard
-![Dashboard screenshot](dashboard.png)
+![Dashboard screenshot](Dashboard.png)
 
 ## Key findings
 - Total sales were 853.1M from 1,512 units sold.
